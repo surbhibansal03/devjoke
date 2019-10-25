@@ -29,6 +29,10 @@ var war; Declaring a war :)
  
 because they don't C# (see sharp).
 ***
+#### Question - Why did the programmer quit his job ?
+ because he didn't get arrays (a raise).
+
+***
 #### Question - What do computers and air conditioners have in common ?
 
 They both become useless when you open 'windows'.

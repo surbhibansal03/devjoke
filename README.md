@@ -25,6 +25,12 @@ var war; Declaring a war :)
 `DEV`das
 
 ***
+#### Question - What do computers and air conditioners have in common ?
+
+They both become useless when you open 'windows'.
+
+
+***
 
 A SQL query goes into a bar, walks up to two tables and asks, "Can I join you?"
 

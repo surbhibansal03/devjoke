@@ -266,6 +266,10 @@ She: I code in Python!
 ALGORITHM(noun) - Word used by programmers when they do not want to explain what they did.
 
 ***
+#### Question: 0 is false and 1 is true, right?
+
+Answer: 1
+***
 
 1/3 of US bandwidth is used by Netflix.
 

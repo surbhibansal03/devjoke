@@ -25,6 +25,10 @@ var war; Declaring a war :)
 `DEV`das
 
 ***
+#### Question - Why do java programmers have to wear glasses ?
+ 
+because they don't C# (see sharp).
+***
 #### Question - What do computers and air conditioners have in common ?
 
 They both become useless when you open 'windows'.
